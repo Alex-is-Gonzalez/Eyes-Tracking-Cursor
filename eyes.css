@@ -1,7 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  background: #14495e;
+  background: rgb(244,235,3);
+  background: linear-gradient(0deg, rgba(244,235,3,1) 35%, rgba(249,211,1,1) 80%, rgba(249,186,1,1) 100%);;
 }
 
 .eyes {
@@ -13,7 +14,7 @@ body {
 }
 .eye {
   width: 240px;
-  height: 120px;
+  height: 240px;
   background: #fff;
   display: inline-block;
   margin: 40px;
