@@ -15,7 +15,7 @@ body {
 .eye {
   width: 240px;
   height: 240px;
-  background: #fff;
+  background: rgb(241, 239, 239);
   display: inline-block;
   margin: 40px;
   border-radius: 50%;
